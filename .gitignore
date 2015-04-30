@@ -1,0 +1,11 @@
+*.suo
+FavIconHandler/bin/Release/Microsoft.WindowsAzure.Diagnostics.dll
+FavIconHandler/bin/Release/FavIconHandler.Sitefinity.dll
+*.dll
+FavIconHandler/bin/Release/FavIconHandler.Sitefinity.pdb
+FavIconHandler/obj/Release/FavIconHandler.Sitefinity.csproj.FileListAbsolute.txt
+*.cache
+FavIconHandler/obj/Release/FavIconHandler.Sitefinity.pdb
+FavIconHandler/bin/Release/Telerik.OpenAccess.xml
+FavIconHandler/bin/Release/Telerik.OpenAccess.40.Extensions.xml
+FavIconHandler.v12.suo
